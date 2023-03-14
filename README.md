@@ -11,9 +11,9 @@
 <br/>
 
 <div>
-<a href="https://github.com/Th14go">
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Th14go&layout=compact&langs_count=7&theme=dracula"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Th14go&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+<a href="https://github.com/thiagolopes-dev">
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thiagolopes-dev&layout=compact&langs_count=7&theme=dracula"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=thiagolopes-dev&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
 </div>
   
   ### Contatos:
@@ -61,5 +61,5 @@ Estas são algumas das tecnologias e ferramentas com as quais trabalho:
   
   <p align="center"> 
  Contador de Visitantes<br>
-  <img src="https://profile-counter.glitch.me/Th14go/count.svg" />
+  <img src="https://profile-counter.glitch.me/thiagolopes-dev/count.svg" />
 </p>
