@@ -5,7 +5,7 @@
 - 🎓 &nbsp; Professor no Curso de Análise e Desenvolvimento de Sistemas em Anhanguera Arapongas.
 - 👨🏼‍💻 &nbsp; CEO na  <a href="https://daringtech.com.br">Daring Tech Sistemas</a>.
 - 👨🏼‍💻 &nbsp; CTO na  <a href="https://jobox.com.br">Jobox</a>.
-- 👨🏼‍💻 &nbsp; Jobs  <a href="https://thiagolopesdev.com.br">Thiago Lopes Dev</a>.
+- 👨🏼‍💻 &nbsp; Meu Perfil <a href="https://thiagolopesdev.com.br">Thiago Lopes Dev</a>.
 
 
 <br/>
