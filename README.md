@@ -3,8 +3,8 @@
 <h3> 👨‍💻 Sobre mim</h3>
 
 - 🎓 &nbsp; Professor no Curso de Análise e Desenvolvimento de Sistemas em Anhanguera Arapongas.
-- 👨🏼‍💻 &nbsp; CEO na  <a href="https://daringtech.com.br">Daring Tech Sistemas</a>.
-- 👨🏼‍💻 &nbsp; CTO na  <a href="https://jobox.com.br">Jobox</a>.
+- 👨🏼‍💻 &nbsp; CEO e Programador Frontend em  <a href="https://daringtech.com.br">Daring Tech Sistemas</a>.
+- 👨🏼‍💻 &nbsp; CEO e Programador Full Stack em <a href="https://labsdev.com.br">LabsDev</a>.
 - 👨🏼‍💻 &nbsp; Meu Perfil <a href="https://thiagolopesdev.com.br">Thiago Lopes Dev</a>.
 
 
