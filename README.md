@@ -2,12 +2,13 @@
 
 <h3> 👨‍💻 Sobre mim</h3>
 
-- 👨🏼‍💻 &nbsp; Meu Perfil <a href="https://thiagolopesdev.com.br">Thiago Lopes Dev</a>.
-- 🎓 &nbsp; Professor no Curso de Análise e Desenvolvimento de Sistemas em Anhanguera Arapongas.
-- 🎓 &nbsp; Professor no Sesc/Senac Arapongas.
-- 👨🏼‍💻 &nbsp; CEO e Programador Frontend em  <a href="https://daringtech.com.br">Daring Tech Sistemas</a>.
-- 👨🏼‍💻 &nbsp; CEO e Programador Full Stack em <a href="https://labsdev.com.br">LabsDev</a>.
+- 👨🏼‍💻 &nbsp; Meu Perfil <a href="https://thiagolopesdev.com.br">Thiago Lopes Dev</a>
+- 👨🏼‍💻 &nbsp; CEO e Programador Frontend em  <a href="https://daringtech.com.br">Daring Tech Sistemas</a>
+- 👨🏼‍💻 &nbsp; CEO e Programador Full Stack em <a href="https://labsdev.com.br">LabsDev</a>
 - 👨🏼‍💻 &nbsp; Coordenador <a href="https://www.instagram.com/ninho_tech/">Ninho Tech Governança de Ecossistema de Inovação em Arapongas | PR.</a>
+- 🎓 &nbsp; Professor no Curso de Análise e Desenvolvimento de Sistemas em Anhanguera Arapongas
+- 🎓 &nbsp; Professor no Sesc/Senac Arapongas
+
 
 
 <br/>
