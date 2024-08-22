@@ -7,7 +7,7 @@
 - 👨🏼‍💻 &nbsp; CEO e Programador Full Stack em <a href="https://labsdev.com.br">LabsDev</a>
 - 👨🏼‍💻 &nbsp; Coordenador <a href="https://www.instagram.com/ninho_tech/">Ninho Tech Governança de Ecossistema de Inovação em Arapongas | PR.</a>
 - 🎓 &nbsp; Professor no Curso de Análise e Desenvolvimento de Sistemas em Anhanguera Arapongas
-- 🎓 &nbsp; Professor no Sesc/Senac Arapongas
+- 🎓 &nbsp; Já atuei como Professor no Sesc/Senac Arapongas
 
 
 
