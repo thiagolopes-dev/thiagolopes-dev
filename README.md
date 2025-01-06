@@ -1,4 +1,4 @@
-<h2 align="center"> {{Hello}}! Eu sou o Thiago Lopes</h2>
+<h2 align="center"> { saudação: "Olá, me chamo", nome: "Thiago Lopes" } </h2>
 
 <h3> 👨‍💻 Sobre mim</h3>
 
