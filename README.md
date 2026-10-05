@@ -4,8 +4,8 @@
 
 - 👨🏼‍💻 &nbsp; Meu Perfil <a href="https://thiagolopesdev.com.br">Thiago Lopes Dev</a>
 - 👨🏼‍💻 &nbsp; CEO e Programador Full Cycle em <a href="https://daringtech.com.br">Daring Tech Sistemas</a>
-- 👨🏼‍💻 &nbsp; CEO e Programador Full Cycle em <a href="https://labsdev.com.br">LabsDev</a>
 - 👨🏼‍💻 &nbsp; CEO e Programador Full Cycle em <a href="https://tgma.com.br">TGMA</a>
+- 👨🏼‍💻 &nbsp; CEO e Programador Full Cycle em <a href="https://labsdev.com.br">LabsDev</a>
 - 👨🏼‍💻 &nbsp; Relações Institucionais <a href="https://www.instagram.com/ninho_tech/">Ninho Tech Governança de Ecossistema de Inovação em Arapongas | PR.</a>
 - 🎓 &nbsp; Professor no Curso de Análise e Desenvolvimento de Sistemas em Unopar Arapongas
 - 🎓 &nbsp; Já atuei como Professor no Sesc/Senac Arapongas
