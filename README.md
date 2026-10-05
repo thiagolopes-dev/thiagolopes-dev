@@ -63,7 +63,3 @@ Estas são algumas das tecnologias e ferramentas com as quais trabalho:
   Tempinho em projetos realizados
   <img href="https://codetime.dev" alt="Custom badge" src="https://img.shields.io/endpoint?style=social&url=https%3A%2F%2Fapi.codetime.dev%2Fshield%3Fid%3D792%26project%3D%26in%3D0">
   
-  <p align="center"> 
- Contador de Visitantes<br>
-  <img src="https://profile-counter.glitch.me/thiagolopes-dev/count.svg" />
-</p>
